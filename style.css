@@ -57,6 +57,11 @@ header {
   text-align: center;
 }
 
+.say {
+  text-align: center;
+  color: white;
+}
+  
 .icons {
   margin-top: 4px;
   font-size: 24px;
